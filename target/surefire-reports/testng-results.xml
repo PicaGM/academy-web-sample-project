@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-16T16:46:13Z" name="BDD Test Suite" finished-at="2023-11-16T16:49:03Z" duration-ms="170040">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-11-16T16:46:13Z" name="TestNg Secuencial runner Tests" finished-at="2023-11-16T16:49:03Z" duration-ms="170040">
+      <class name="com.crowdar.bdd.cukes.TestNGSecuencialRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:46:13Z" name="setUpClass" finished-at="2023-11-16T16:46:13Z" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:46:13Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:46:30Z" duration-ms="17189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["ingresar con la cuenta registrada y ver los detalles"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba en Practice Automation para el TP Integrador Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:46:30Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:46:48Z" duration-ms="17567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["ingresar con un usuario y salir de la cuenta"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba en Practice Automation para el TP Integrador Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:46:48Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:47:10Z" duration-ms="22433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Proceso de compra de un libro"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba de Home Page para el TP Integrador de Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:47:10Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:47:31Z" duration-ms="20755" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Compra de un libro"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba de Home Page para el TP Integrador de Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:47:31Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:47:45Z" duration-ms="13580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["ingresar un usuario y contraseña con mayusculas y verificar la diferencia"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba en Practice Automation para el TP Integrador Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:47:45Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:48:01Z" duration-ms="16224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["ingresar con un usuario y salir de la cuenta"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba en Practice Automation para el TP Integrador Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:48:01Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:48:16Z" duration-ms="15507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["ingresar un usuario sin contraseña"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba en Practice Automation para el TP Integrador Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:48:16Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:48:30Z" duration-ms="13198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Registrarse con los campos vacios"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba en Practice Automation para el TP Integrador Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:48:30Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:48:48Z" duration-ms="18729" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Compra de un libro"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba de Home Page para el TP Integrador de Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:48:48Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-16T16:49:03Z" duration-ms="14434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Compra de un libro"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Casos de prueba de Home Page para el TP Integrador de Crowdar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.crowdar.bdd.cukes.TestNGSecuencialRunner@2145b572]" started-at="2023-11-16T16:49:03Z" name="tearDownClass" finished-at="2023-11-16T16:49:03Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.crowdar.bdd.cukes.TestNGSecuencialRunner -->
+    </test> <!-- TestNg Secuencial runner Tests -->
+  </suite> <!-- BDD Test Suite -->
+</testng-results>
