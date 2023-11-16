@@ -1,0 +1,20 @@
+16/11/23 13:46:15 INFO  BasicHook:20 - ------ Starting -----ingresar con la cuenta registrada y ver los detalles-----
+16/11/23 13:46:30 INFO  BasicHook:25 - ------ Ending -----ingresar con la cuenta registrada y ver los detalles-----
+16/11/23 13:46:31 INFO  BasicHook:20 - ------ Starting -----ingresar con un usuario y salir de la cuenta-----
+16/11/23 13:46:48 INFO  BasicHook:25 - ------ Ending -----ingresar con un usuario y salir de la cuenta-----
+16/11/23 13:46:49 INFO  BasicHook:20 - ------ Starting -----Proceso de compra de un libro-----
+16/11/23 13:47:10 INFO  BasicHook:25 - ------ Ending -----Proceso de compra de un libro-----
+16/11/23 13:47:11 INFO  BasicHook:20 - ------ Starting -----Compra de un libro-----
+16/11/23 13:47:31 INFO  BasicHook:25 - ------ Ending -----Compra de un libro-----
+16/11/23 13:47:32 INFO  BasicHook:20 - ------ Starting -----ingresar un usuario y contraseña con mayusculas y verificar la diferencia-----
+16/11/23 13:47:44 INFO  BasicHook:25 - ------ Ending -----ingresar un usuario y contraseña con mayusculas y verificar la diferencia-----
+16/11/23 13:47:45 INFO  BasicHook:20 - ------ Starting -----ingresar con un usuario y salir de la cuenta-----
+16/11/23 13:48:01 INFO  BasicHook:25 - ------ Ending -----ingresar con un usuario y salir de la cuenta-----
+16/11/23 13:48:02 INFO  BasicHook:20 - ------ Starting -----ingresar un usuario sin contraseña-----
+16/11/23 13:48:16 INFO  BasicHook:25 - ------ Ending -----ingresar un usuario sin contraseña-----
+16/11/23 13:48:17 INFO  BasicHook:20 - ------ Starting -----Registrarse con los campos vacios-----
+16/11/23 13:48:29 INFO  BasicHook:25 - ------ Ending -----Registrarse con los campos vacios-----
+16/11/23 13:48:30 INFO  BasicHook:20 - ------ Starting -----Compra de un libro-----
+16/11/23 13:48:48 INFO  BasicHook:25 - ------ Ending -----Compra de un libro-----
+16/11/23 13:48:49 INFO  BasicHook:20 - ------ Starting -----Compra de un libro-----
+16/11/23 13:49:02 INFO  BasicHook:25 - ------ Ending -----Compra de un libro-----
